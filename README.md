@@ -3,7 +3,7 @@
 - 👋 Hi, I am Sandesh Jain.
 - 👀 I am interested in Software Development, Marketing and Content Writing.
 - 🌱 Currently open for open-source contributions and freelancing opportunities.
-- 🤝 How to reach me : [Do Reach](mailto:dev.sandeshjain@gmail.com) [LinkedIn](https://www.linkedin.com/in/sandeshj07)
+- 🤝 How to reach me : [Do Reach](mailto:dev.sandeshjain@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sandeshj07)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeshj-07&label=Profile%20views&color=0e75b6&style=flat" alt="sandeshj-07" /> </p>
 
