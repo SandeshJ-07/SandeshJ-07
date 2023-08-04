@@ -1,4 +1,4 @@
-<h3>A passionate Full-stack developer, Coder and Learner.</h3>
+<h3>A passionate software deeveloper.</h3>
 
 - 👋 Hi, I am Sandesh Jain.
 - 👀 I am interested in Software Development, Marketing and Content Writing.
